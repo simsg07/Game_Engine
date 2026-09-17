@@ -1,9 +1,8 @@
 {
   "ExpandedNodes": [
     "",
-    "\\GameEngine",
-    "\\GameEngine\\GameEngine"
+    "\\GameEngine"
   ],
-  "SelectedNode": "\\GameEngine\\GameEngine\\GameEngine.cpp",
+  "SelectedNode": "\\GameEngine",
   "PreviewInSolutionExplorer": false
 }
