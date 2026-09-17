@@ -3,12 +3,32 @@
   "WorkspaceRootPath": "C:\\Game_Engine\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Game_Engine\\GameEngine\\GameEngine\\GameEngine.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:GameEngine\\GameEngine\\GameEngine.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Game_Engine\\CppProperties.json||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:CppProperties.json||{8B382828-6202-11D1-8870-0000F87579D2}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Game_Engine\\GameEngine\\GameEngine\\GameEngine.vcxproj.filters||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:GameEngine\\GameEngine\\GameEngine.vcxproj.filters||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Game_Engine\\GameEngine\\applicationclass.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:GameEngine\\applicationclass.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Game_Engine\\GameEngine\\applicationclass.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:GameEngine\\applicationclass.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Game_Engine\\GameEngine\\inputclass.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:GameEngine\\inputclass.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Game_Engine\\GameEngine\\inputclass.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:GameEngine\\inputclass.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Game_Engine\\GameEngine\\systemclass.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:GameEngine\\systemclass.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Game_Engine\\GameEngine\\systemclass.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:GameEngine\\systemclass.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Game_Engine\\GameEngine\\\uC18C\uC2A4.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
@@ -22,24 +42,89 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "GameEngine.vcxproj.filters",
-              "DocumentMoniker": "C:\\Game_Engine\\GameEngine\\GameEngine\\GameEngine.vcxproj.filters",
-              "RelativeDocumentMoniker": "GameEngine\\GameEngine\\GameEngine.vcxproj.filters",
-              "ToolTip": "C:\\Game_Engine\\GameEngine\\GameEngine\\GameEngine.vcxproj.filters",
-              "RelativeToolTip": "GameEngine\\GameEngine\\GameEngine.vcxproj.filters",
+              "DocumentIndex": 0,
+              "Title": "CppProperties.json",
+              "DocumentMoniker": "C:\\Game_Engine\\CppProperties.json",
+              "RelativeDocumentMoniker": "CppProperties.json",
+              "ToolTip": "C:\\Game_Engine\\CppProperties.json",
+              "RelativeToolTip": "CppProperties.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2026-09-10T08:10:12.574Z",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-09-10T08:33:46.938Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "applicationclass.cpp",
+              "DocumentMoniker": "C:\\Game_Engine\\GameEngine\\applicationclass.cpp",
+              "RelativeDocumentMoniker": "GameEngine\\applicationclass.cpp",
+              "ToolTip": "C:\\Game_Engine\\GameEngine\\applicationclass.cpp",
+              "RelativeToolTip": "GameEngine\\applicationclass.cpp",
+              "ViewState": "AgIAABYAAAAAAAAAAAAYwCsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-09-10T08:33:02.873Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
+              "Title": "applicationclass.h",
+              "DocumentMoniker": "C:\\Game_Engine\\GameEngine\\applicationclass.h",
+              "RelativeDocumentMoniker": "GameEngine\\applicationclass.h",
+              "ToolTip": "C:\\Game_Engine\\GameEngine\\applicationclass.h",
+              "RelativeToolTip": "GameEngine\\applicationclass.h",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAYwCcAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-09-10T08:32:30.292Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "inputclass.cpp",
+              "DocumentMoniker": "C:\\Game_Engine\\GameEngine\\inputclass.cpp",
+              "RelativeDocumentMoniker": "GameEngine\\inputclass.cpp",
+              "ToolTip": "C:\\Game_Engine\\GameEngine\\inputclass.cpp",
+              "RelativeToolTip": "GameEngine\\inputclass.cpp",
+              "ViewState": "AgIAABcAAAAAAAAAAAAYwDUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-09-10T08:32:11.846Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "inputclass.h",
+              "DocumentMoniker": "C:\\Game_Engine\\GameEngine\\inputclass.h",
+              "RelativeDocumentMoniker": "GameEngine\\inputclass.h",
+              "ToolTip": "C:\\Game_Engine\\GameEngine\\inputclass.h",
+              "RelativeToolTip": "GameEngine\\inputclass.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-09-10T08:31:54.066Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "systemclass.cpp",
+              "DocumentMoniker": "C:\\Game_Engine\\GameEngine\\systemclass.cpp",
+              "RelativeDocumentMoniker": "GameEngine\\systemclass.cpp",
+              "ToolTip": "C:\\Game_Engine\\GameEngine\\systemclass.cpp",
+              "RelativeToolTip": "GameEngine\\systemclass.cpp",
+              "ViewState": "AgIAAPIAAAAAAAAAAAAYwBABAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-09-10T08:28:52.436Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
               "Title": "\uC18C\uC2A4.cpp",
               "DocumentMoniker": "C:\\Game_Engine\\GameEngine\\\uC18C\uC2A4.cpp",
               "RelativeDocumentMoniker": "GameEngine\\\uC18C\uC2A4.cpp",
@@ -47,20 +132,20 @@
               "RelativeToolTip": "GameEngine\\\uC18C\uC2A4.cpp",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2026-09-10T08:10:06.125Z",
+              "WhenOpened": "2026-09-10T08:27:02.307Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "GameEngine.cpp",
-              "DocumentMoniker": "C:\\Game_Engine\\GameEngine\\GameEngine\\GameEngine.cpp",
-              "RelativeDocumentMoniker": "GameEngine\\GameEngine\\GameEngine.cpp",
-              "ToolTip": "C:\\Game_Engine\\GameEngine\\GameEngine\\GameEngine.cpp",
-              "RelativeToolTip": "GameEngine\\GameEngine\\GameEngine.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2026-09-10T08:10:04.339Z",
+              "DocumentIndex": 6,
+              "Title": "systemclass.h",
+              "DocumentMoniker": "C:\\Game_Engine\\GameEngine\\systemclass.h",
+              "RelativeDocumentMoniker": "GameEngine\\systemclass.h",
+              "ToolTip": "C:\\Game_Engine\\GameEngine\\systemclass.h",
+              "RelativeToolTip": "GameEngine\\systemclass.h",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAACMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-09-10T08:23:37.801Z",
               "EditorCaption": ""
             }
           ]
