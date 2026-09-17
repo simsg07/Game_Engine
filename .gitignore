@@ -30,3 +30,21 @@
 *.exe
 *.out
 *.app
+
+# Visual Studio local caches and user settings
+.vs/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+*.ipch
+
+# Visual Studio build output
+[Dd]ebug/
+[Rr]elease/
+x64/
+x86/
+*.ilk
+*.pdb
+*.tlog
+*.lastbuildstate
